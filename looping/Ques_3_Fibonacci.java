@@ -16,6 +16,7 @@ public class Ques_3_Fibonacci {
 			n2=res;
 			System.out.print(res+" ");
 		}
+		sc.close();
 	}
 
 }

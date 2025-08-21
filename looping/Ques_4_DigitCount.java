@@ -12,6 +12,7 @@ public class Ques_4_DigitCount {
 			n/=10;
 		}
 		System.out.println(cnt);
+		sc.close();
 	}
 
 }
