@@ -2,7 +2,7 @@ package strings;
 
 import java.util.*;
 
-public class Reverse_each_word_without_inbuilt_function {
+public class Q6_Reverse_each_word_without_inbuilt_function {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         String str=sc.nextLine();
