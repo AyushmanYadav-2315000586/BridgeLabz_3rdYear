@@ -1,4 +1,4 @@
-package arrays;
+package Arrays;
 public class Q1_MakePattern {
     public static void main(String[] args) {
         int n = 4; 

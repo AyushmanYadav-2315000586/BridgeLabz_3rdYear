@@ -1,4 +1,4 @@
-package arrays;
+package Arrays;
 import java.util.*;
 public class Q6_MergeArray {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package arrays;
+package Arrays;
 import java.util.*;
 public class Q2_ZigZagTraversal {
     public static void main(String[] args) {

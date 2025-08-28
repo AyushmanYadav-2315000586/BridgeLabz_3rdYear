@@ -1,4 +1,4 @@
-package arrays;
+package Arrays;
 public class Q3_SpiralTraversal {
     public static void main(String[] args) {
         int[][] arr = {

@@ -1,4 +1,4 @@
-package arrays;
+package Arrays;
 import java.util.*;
 public class Q3_CopyArray {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package arrays;
+package Arrays;
 import java.util.*;
 public class Q5_CheckSortedorNot {
     public static void main(String[] args) {
