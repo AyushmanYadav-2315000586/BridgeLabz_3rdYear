@@ -1,4 +1,4 @@
-package PracticeProblems;
+package practiceProblems;
 import java.util.*;
 public class Assisted_Problems {
     public static void main(String[] args) {

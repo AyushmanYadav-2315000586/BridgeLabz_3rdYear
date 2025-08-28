@@ -1,4 +1,4 @@
-package Arrays;
+package arrays;
 public class Q4_WavePrint {
     public static void main(String[] args) {
         int[][] arr = {

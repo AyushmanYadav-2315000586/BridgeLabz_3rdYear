@@ -1,4 +1,4 @@
-package Arrays;
+package arrays;
 public class Q7_FrequencyFind {
     public static void main(String[] args) {
         int[] arr = {1, 2, 2, 3, 4, 1, 5, 2, 3};

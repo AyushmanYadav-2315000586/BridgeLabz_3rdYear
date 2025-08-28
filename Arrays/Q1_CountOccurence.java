@@ -1,4 +1,4 @@
-package Arrays;
+package arrays;
 import java.util.*;
 public class Q1_CountOccurence {
     public static void main(String[] args) {
