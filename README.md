@@ -1,51 +1,91 @@
-**This is a Readme File**
+# 📘 Learning Journal
 
-<hr>
+This repository contains my daily learning progress in **Java Programming** and related concepts.  
+Each day I’m documenting the topics I studied and the key takeaways. 🚀
 
-**_Day 1_**
+---
 
-**Topic: _Git Programming_**
+## 🗓️ Day 1  
+**Topic:** *Git Programming*  
 
-```
-`Content`: Git vs GitHub, Repo, Branch, Merge, Commits, Push, Pull, Version History and Messages.
-```
+### 📖 Content:
+- Git vs GitHub  
+- Repository, Branch, Merge  
+- Commits, Push, Pull  
+- Version History & Messages  
 
-Learned the basics of `git` and `github`
+✅ Learned the basics of **`git`** and **`github`**, including version control essentials.
 
-<hr>
+---
 
-**_Day 2_**
+## 🗓️ Day 2  
+**Topic:** *Java Architecture*  
 
-**Topic: _JAVA Architecture_**
+### 📖 Content:
+- JVM Architecture  
+- Compiler & Interpreter  
+- Garbage Collector  
 
-```
-`Content`: Class Loader, Runtime Data Area, Execution Engine, Native Method Library and Native Method Interface.
-```
+✅ Studied the **Java Architecture** in detail and understood its **components & subtypes**.
 
-Studied the `Java Architecture` and its `subtypes`.
+---
 
-<hr>
+## 🗓️ Day 3  
+**Topic:** *Basic Elements of Programming*  
 
-**_Day 3_**
+### 📖 Content:
+- Variables & Literals  
+- Primitive Data Types  
+- Basic I/O  
+- Operators  
+- `var` keyword  
+- Variable Scope  
 
-**Topic: _Basic Elements of Programming_**
+✅ Studied **Java Basics** in-depth.
 
-```
-`Content`: Variables, Literals, Primitive Data Types, Basic I/O, Operators, Primitive Data Types, var keyword, Variable Scope.
-```
+---
 
-Studied `Java Basics` in-depth
+## 🗓️ Day 4  
+**Topic:** *Programming Constructs*  
 
-<hr>
+### 📖 Content:
+- Sequence, Selection, Iteration  
+- For-Each loop  
+- Transfer statements  
 
-**_Day 4_**
+✅ Studied **loops** in Java and solved classroom problems.  
+Also created a **Basic Calculator** program.
 
-**Topic: _Programming Constructs_**
+---
 
-```
-`Content`: Sequence, Selection, Iteration, For-Each loop, Transfer statements
-```
+## 🗓️ Day 5  
+**Topic:** *Arrays*  
 
-Studied about `loops` in java and did some coding problems which was assigned in class and made a `Calculator` for basic programs.
+### 📖 Content:
+- One-dimensional, Two-dimensional & Multi-dimensional arrays  
+- `java.util.Arrays` class  
+- Copying Arrays (`System.arraycopy()`)  
 
-<hr>
+✅ Learned different types of **arrays** and the **Arrays class** in Java.
+
+---
+
+## 🗓️ Day 6  
+**Topic:** *Strings and Methods*  
+
+### 📖 Content (Strings):
+- `String`, `StringTokenizer`, `StringBuilder`, `StringBuffer`  
+- Common String methods (`length()`, `charAt()`, `substring()`, etc.)  
+- Strings as Method Parameters  
+- ASCII Character Codes  
+
+### 📖 Content (Methods):
+- User-defined Methods  
+- Recursive Methods  
+- Static & Standard Library Methods  
+- `java.lang.Math` class (e.g., `Math.random()`)  
+
+✅ Studied about **string handling in Java** (`String`, `StringBuilder`, `StringBuffer`, `StringTokenizer`) and their built-in methods.  
+Also learned about **methods** — how to define, reuse, make them dynamic, and apply recursion. Explored built-in methods from the **Math class**.
+
+---
