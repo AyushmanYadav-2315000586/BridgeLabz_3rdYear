@@ -81,11 +81,10 @@ Also created a **Basic Calculator** program.
 
 ### 📖 Content (Methods):
 - User-defined Methods  
-- Recursive Methods  
 - Static & Standard Library Methods  
 - `java.lang.Math` class (e.g., `Math.random()`)  
 
 ✅ Studied about **string handling in Java** (`String`, `StringBuilder`, `StringBuffer`, `StringTokenizer`) and their built-in methods.  
-Also learned about **methods** — how to define, reuse, make them dynamic, and apply recursion. Explored built-in methods from the **Math class**.
+Also learned about **methods** — how to define, reuse, make them dynamic. Explored built-in methods from the **Math class**.
 
 ---
