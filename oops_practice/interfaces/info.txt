@@ -1,0 +1,4 @@
+there is no need to use abstract keyword cause it is common sense and use I before class name.
+Interface doesn't allow Concrete methods
+we can use interface in class but class can't be use inside interface due to Concrete methods.
+to use interface class in normal class we can make class abstract or override methods

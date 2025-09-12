@@ -1,0 +1,14 @@
+Hiding of unnecessary or complex data is called abstraction.
+
+Class is an instance of object
+Abstract class(Uncomplete Class) is blueprint of class
+Interface is the set of behaviors that a class must implement ensuring a class can perform certain actions regardless of its other relationships.
+(It is a coding contract between two entities).
+
+
+Concrete Method: The method which has its body or implementation
+Non-Concrete Method: The method which does not has its body or implementation and it should be abstract
+
+
+When we extend an abstract class to a normal class, we have two conditions to use abstract class method. 
+Make the normal class to abstract class or override the method which we want to use (we can ignore keywords while overriding). 
