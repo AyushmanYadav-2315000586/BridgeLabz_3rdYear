@@ -10,5 +10,6 @@ public class ClassMain {
         // Parent p1=new Child();
         // p1.add(3,2);
         Grandson s=new Grandson();
+        s.add(0, 0);
     }
 }    
