@@ -1,4 +1,4 @@
-package Practice_Problems.BankAccount System;
+package Practice_Problems.BankAccountSystem;
 public class BankAccountMain {
     public static void main(String[] args) {
         

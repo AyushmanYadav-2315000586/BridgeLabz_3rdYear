@@ -4,6 +4,7 @@ public class BankAccount {
     private static final String bankName = "State Bank of India";
     private static int totalAccounts = 0;
 
+    
     // Final variable to ensure account number cannot be changed once assigned
     private final String accountNumber;
     private String accountHolderName;
